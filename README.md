@@ -1,1 +1,1 @@
-# uber_eats_marketplace_lakehouse
+# uber-eats-marketplace-lakehouse
